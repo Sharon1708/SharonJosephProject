@@ -8,7 +8,7 @@ public class NewClass
 {
 	public static void main(String[] args)
 	{
-		int r[] = {1,2,3,4,};
+		int r[] = {1,2,3,4,5,6,7,8};
 		int[] clone = r.clone();
 		int length = clone.length;
 		System.out.println(length);
