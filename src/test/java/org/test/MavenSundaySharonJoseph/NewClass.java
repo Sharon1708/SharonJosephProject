@@ -18,6 +18,8 @@ public class NewClass
 		System.out.println(size);
 		int indexOf = li.indexOf(300);
 		System.out.println(indexOf);
+		
+		System.out.println("second list");
 	}
 
 }
